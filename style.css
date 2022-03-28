@@ -1,0 +1,18 @@
+.container{
+    text-align:center;
+    font-size:2rem;
+  }
+  #value{
+    font-size:5rem;
+    font-weight:bold;
+  }
+  .btn{
+    background:transparent;
+    border-radius:5px;
+    padding:5px 20px;
+    margin:1rem;
+    cursor:pointer;
+  }
+  .btn:hover{
+    background: rgba(0,0,0,0.3)
+    }
